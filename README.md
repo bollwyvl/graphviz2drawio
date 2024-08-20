@@ -44,10 +44,10 @@ pipx install graphviz2drawio
 # To update: pipx upgrade graphviz2drawio
 ```
 
-## Anaconda
+## conda-forge
 
 ```bash
-conda install conda-forge::graphviz2drawio
+conda install -c conda-forge graphviz2drawio
 ```
 
 ## Usage
